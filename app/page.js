@@ -182,7 +182,7 @@ export default function Home() {
       </Box>
     </Modal>
 
-    <Typography variant="h4"  color={theme.palette.primary.main} mb={3}>Pantry Manager</Typography>
+    <Typography variant="h4"  color={theme.palette.primary.main} mb={3}>Inventory Manager</Typography>
 
     <TextField
       variant="outlined"
