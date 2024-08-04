@@ -1,0 +1,8 @@
+.hidden {
+    transform: scale(0);
+    transition: ease-in-out .25s;
+  }
+  
+  .show {
+    transform: scale(1);
+  }
